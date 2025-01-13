@@ -44,37 +44,37 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAGnp2HPSkBpmqEWB64FHJAy8uoeeg4ddQ',
-    appId: '1:1086390775830:web:e5f54b81895f9899314537',
-    messagingSenderId: '1086390775830',
-    projectId: 'mapproject-e351d',
-    authDomain: 'mapproject-e351d.firebaseapp.com',
-    storageBucket: 'mapproject-e351d.appspot.com',
+    apiKey: 'Enter your api key',
+    appId: 'id',
+    messagingSenderId: 'id1',
+    projectId: 'enter your project id',
+    authDomain: 'autdomain',
+    storageBucket: 'storageBucket',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAuHHKMy9mI6j6MMDifNxl11kRr_7pm_Es',
-    appId: '1:1086390775830:android:f7054afc91ec96fb314537',
-    messagingSenderId: '1086390775830',
-    projectId: 'mapproject-e351d',
-    storageBucket: 'mapproject-e351d.appspot.com',
+    apiKey: 'Enter your api key',
+    appId: 'id',
+    messagingSenderId: 'id1',
+    projectId: 'enter your project id',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyD_Uslx9Zk6SL6KX7NaAdGTeo-ocmw-ehM',
-    appId: '1:1086390775830:ios:89d432119d033e9f314537',
-    messagingSenderId: '1086390775830',
-    projectId: 'mapproject-e351d',
-    storageBucket: 'mapproject-e351d.appspot.com',
-    iosBundleId: 'com.example.mapsapp0',
+    apiKey: 'Enter your api key',
+    appId: 'id',
+    messagingSenderId: 'id1',
+    projectId: 'enter your project id',
+    storageBucket: 'storageBucket',
+    iosBundleId: 'com.example...',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyD_Uslx9Zk6SL6KX7NaAdGTeo-ocmw-ehM',
-    appId: '1:1086390775830:ios:64219cdd82954d51314537',
-    messagingSenderId: '1086390775830',
-    projectId: 'mapproject-e351d',
-    storageBucket: 'mapproject-e351d.appspot.com',
-    iosBundleId: 'com.example.mapsapp0.RunnerTests',
+    apiKey: 'Enter your api key',
+    appId: 'id',
+    messagingSenderId: 'id1',
+    projectId: 'enter your project id',
+    storageBucket: 'storageBucket',
+    iosBundleId: 'com.example...',
   );
 }
